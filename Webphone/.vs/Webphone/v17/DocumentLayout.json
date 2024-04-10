@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|e:\\c#4\\6_ps31516_tranthanhphong_asm\\webphone\\webphone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\_models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\_models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\_models\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\_models\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\controllers\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\controllers\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\views\\shared\\_layoutmn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\views\\shared\\_layoutmn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\_models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\_models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\_models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\_models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\_models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\_models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\views\\invoicedetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\views\\invoicedetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\_models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\_models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\_models\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\_models\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\_models\\logininfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\_models\\logininfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\webphone\\_models\\invoicedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADB712-89B6-4E42-B64E-236A61D189E2}|Webphone\\Webphone.csproj|solutionrelative:webphone\\_models\\invoicedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Webphone\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Webphone\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:39:18.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchResults.cshtml",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Home\\SearchResults.cshtml",
+              "RelativeDocumentMoniker": "Webphone\\Views\\Home\\SearchResults.cshtml",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Home\\SearchResults.cshtml",
+              "RelativeToolTip": "Webphone\\Views\\Home\\SearchResults.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:41:54.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Webphone\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Webphone\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAowM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:42:03.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginInfo.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\LoginInfo.cs",
+              "RelativeDocumentMoniker": "Webphone\\_Models\\LoginInfo.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\LoginInfo.cs",
+              "RelativeToolTip": "Webphone\\_Models\\LoginInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:31:10.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Webphone\\_Models\\CustomersController.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\CustomersController.cs",
+              "RelativeToolTip": "Webphone\\_Models\\CustomersController.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:19:16.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Webphone\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Webphone\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wKwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:51:04.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Webphone\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Webphone\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAF0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:00:03.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Webphone\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Webphone\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwDoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:03:12.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Controllers\\Cart.cs",
+              "RelativeDocumentMoniker": "Webphone\\Controllers\\Cart.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Controllers\\Cart.cs",
+              "RelativeToolTip": "Webphone\\Controllers\\Cart.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAmwE0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:45:33.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\Product.cs",
+              "RelativeDocumentMoniker": "Webphone\\_Models\\Product.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\Product.cs",
+              "RelativeToolTip": "Webphone\\_Models\\Product.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:26:47.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "Webphone\\_Models\\InvoiceDetail.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\InvoiceDetail.cs",
+              "RelativeToolTip": "Webphone\\_Models\\InvoiceDetail.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:36:29.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Webphone\\_Models\\Invoice.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\Invoice.cs",
+              "RelativeToolTip": "Webphone\\_Models\\Invoice.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:37:24.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutMn.cshtml",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Shared\\_LayoutMn.cshtml",
+              "RelativeDocumentMoniker": "Webphone\\Views\\Shared\\_LayoutMn.cshtml",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\Shared\\_LayoutMn.cshtml",
+              "RelativeToolTip": "Webphone\\Views\\Shared\\_LayoutMn.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T19:22:06.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\InvoiceDetails\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Webphone\\Views\\InvoiceDetails\\Delete.cshtml",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\Views\\InvoiceDetails\\Delete.cshtml",
+              "RelativeToolTip": "Webphone\\Views\\InvoiceDetails\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T19:40:19.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Webphone\\_Models\\Customer.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\Customer.cs",
+              "RelativeToolTip": "Webphone\\_Models\\Customer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAzwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:38:25.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginInfoesController.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\LoginInfoesController.cs",
+              "RelativeDocumentMoniker": "Webphone\\_Models\\LoginInfoesController.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\LoginInfoesController.cs",
+              "RelativeToolTip": "Webphone\\_Models\\LoginInfoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:21:20.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvoiceDetailsController.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\InvoiceDetailsController.cs",
+              "RelativeDocumentMoniker": "Webphone\\_Models\\InvoiceDetailsController.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\InvoiceDetailsController.cs",
+              "RelativeToolTip": "Webphone\\_Models\\InvoiceDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:20:29.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "Webphone\\_Models\\InvoicesController.cs",
+              "ToolTip": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\_Models\\InvoicesController.cs",
+              "RelativeToolTip": "Webphone\\_Models\\InvoicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:19:56.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

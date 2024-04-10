@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Webphone._Models.InvoiceDetail>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutMn.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subtotal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Invoice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subtotal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Invoice.InvoiceId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.ProId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.InvoiceDetailId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.InvoiceDetailId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.InvoiceDetailId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,59 @@
+﻿@model Webphone._Models.Product
+@{
+    ViewData["Title"] = "ProDetails";
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+<div>
+    <span>@Model.ProName</span>
+    <div class="row align-items-center">
+        <div class="col-md-6 col-sm-3 d-flex justify-content-center">
+            @if (Model != null && Model.ProImg.Length > 0)
+            {
+                <img style="max-width:200px" src="data:image/jpeg;base64,@Convert.ToBase64String(Model.ProImg)" alt="Product Image" />
+            }
+            else
+            {
+                <p>No image available</p>
+            }
+        </div>
+        <div class="col-md-6 col-sm-3 ">
+            <p>Cấu hình Điện thoại @Model.ProName</p>
+            <table>
+                <tr>
+                    <th>Hãng</th>
+                    <td>@Model.ProBrand</td>
+                </tr>
+                <tr>
+                    <th>Hệ điều hành</th>
+                    <td>@Model.Hdh</td>
+                </tr>
+               
+                <tr>
+                    <th>Camera trước</th>
+                    <td>@Model.Camera</td>
+                </tr>
+                <tr>
+                    <th>Chip</th>
+                    <td>@Model.Cpu</td>
+                </tr>
+                <tr>
+                    <th>RAM</th>
+                    <td>@Model.Ram</td>
+                </tr>
+                <tr>
+                    <th>Màu</th>
+                    <td>@Model.Color</td>
+                </tr>
+            </table>
+            <div class="mb-2 mt-2" style="float:right;">
+                <a class="btn btn-primary" href="#">Mua hàng ngay</a>
+                <a class="btn btn-primary" href="#">Trả góp 0%</a>
+                <a class="btn btn-primary" asp-action="AddToCart" asp-route-id="@Model.ProId">Thêm vào giỏ hàng</a>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+

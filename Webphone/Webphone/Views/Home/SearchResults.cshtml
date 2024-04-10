@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Webphone._Models.Product>
+@{
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+
+<div class="container mb-2">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="item d-flex justify-content-center col-sm-6 col-md-3 mt-4">
+                <div class="card" style="width: 15rem;">
+                    @if (item.ProImg != null && item.ProImg.Length > 0)
+                    {
+                        <a asp-action="ProDetails" style="text-decoration:none" asp-route-id="@item.ProId">
+                            <img src="data:image/jpeg;base64,@Convert.ToBase64String(item.ProImg)" class="card-img-top" alt="...">
+                        </a>
+                    }
+                    else
+                    {
+                        <p>No image available</p>
+                    }
+                    <div class="card-body">
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.ProName)</p>
+                        <p style="font-weight: bold; color: red;">$@Html.DisplayFor(modelItem => item.ProPrice)</p>
+                        <p>Yêu thích <i class="bi bi-suit-heart btn btn-outline-danger"></i></p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

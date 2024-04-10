@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Webphone._Models.Product>
+@{
+    Layout = "~/views/shared/_layoutuser.cshtml";
+    
+}
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+@if(TempData["CartSucces"] !=null){
+    <div class="alert alert-danger">@TempData["CartSucces"]</div>
+}
+<img src="~/img/panel.webp" style="max-width: 100%; border-radius: 10px;" alt="">
+<!--Carousel-->
+<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <div class="row">
+                <div class="col">
+                    <img src="~/img/Back-to-Office-720-220-720x220-1.webp" class="d-block w-100" alt="...">
+                </div>
+                <div class="col">
+                    <img src="~/img/iPhone-15-Pro-Max-720-220-720x220-4.webp" class="d-block w-100" alt="...">
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row">
+                <div class="col">
+                    <img src="~/img/s24-sliding-pha-gia.webp" class="d-block w-100" alt="...">
+                </div>
+                <div class="col">
+                    <img src="~/img/tecno-20c-sliding-th3.webp" class="d-block w-100" alt="...">
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row">
+                <div class="col">
+                    <img src="~/img/vivo-v29e-sliding-th333.webp" class="d-block w-100" alt="...">
+                </div>
+                <div class="col">
+                    <img src="~/img/oppo-reno-11f-sliding-hssv.webp" class="d-block w-100" alt="...">
+                </div>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+
+<div class="row mt-4">
+    <div class="col" id="tag-phone">
+        <h3 style="display: inline;">Điện thoại</h3>
+        <a class="btn btn-outline-secondary ">Tất cả</a>
+        <a class="btn btn-outline-secondary ">Oppo</a>
+        <a class="btn btn-outline-secondary ">Iphone</a>
+        <a class="btn btn-outline-secondary ">Realmi</a>
+        <a class="btn btn-outline-secondary ">Samsung</a>
+        <a class="btn btn-outline-secondary ">Xiaomi</a>
+        <a class="btn btn-outline-secondary ">Vivo</a>
+    </div>
+</div>
+
+<div class="container mb-2">
+        <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="item d-flex justify-content-center col-sm-6 col-md-3 mt-4">
+                <div class="card" style="width: 15rem;">
+                    @if (item.ProImg != null && item.ProImg.Length > 0)
+                    {
+                        <a asp-action="ProDetails" style="text-decoration:none" asp-route-id="@item.ProId">
+                        <img src="data:image/jpeg;base64,@Convert.ToBase64String(item.ProImg)" class="card-img-top" alt="...">
+                        </a>
+                    }
+                    else
+                    {
+                        <p>No image available</p>
+                    }
+                    <div class="card-body">
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.ProName)</p>
+                        <p style="font-weight: bold; color: red;">$@Html.DisplayFor(modelItem => item.ProPrice)</p>
+                        <p>Yêu thích <i class="bi bi-suit-heart btn btn-outline-danger"></i></p>
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+    </div>

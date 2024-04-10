@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Webphone.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Webphone.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\css\\mycss.css",
+      "PackagePath": "staticwebassets\\css\\mycss.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\Back-to-Office-720-220-720x220-1.webp",
+      "PackagePath": "staticwebassets\\img\\Back-to-Office-720-220-720x220-1.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\Brand_logo.png",
+      "PackagePath": "staticwebassets\\img\\Brand_logo.png"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\IPhone-13PM-256G.webp",
+      "PackagePath": "staticwebassets\\img\\IPhone-13PM-256G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\IPhone-15PM-256G.webp",
+      "PackagePath": "staticwebassets\\img\\IPhone-15PM-256G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\Iphone-14PM-256G.webp",
+      "PackagePath": "staticwebassets\\img\\Iphone-14PM-256G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\Oppo-A77s-128G.webp",
+      "PackagePath": "staticwebassets\\img\\Oppo-A77s-128G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\Oppo-Reno11_256G.webp",
+      "PackagePath": "staticwebassets\\img\\Oppo-Reno11_256G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\Realme-C51-256G.webp",
+      "PackagePath": "staticwebassets\\img\\Realme-C51-256G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\RogPhone7-512G.webp",
+      "PackagePath": "staticwebassets\\img\\RogPhone7-512G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\Rogphone-6-256G.webp",
+      "PackagePath": "staticwebassets\\img\\Rogphone-6-256G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\S22-128G.webp",
+      "PackagePath": "staticwebassets\\img\\S22-128G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\S24Utra-256G.webp",
+      "PackagePath": "staticwebassets\\img\\S24Utra-256G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\Xiaomi-13C-128G.webp",
+      "PackagePath": "staticwebassets\\img\\Xiaomi-13C-128G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\Xiaomi-14-256G.webp",
+      "PackagePath": "staticwebassets\\img\\Xiaomi-14-256G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\ZFlip4-128G.webp",
+      "PackagePath": "staticwebassets\\img\\ZFlip4-128G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\ZFlod5-256G.webp",
+      "PackagePath": "staticwebassets\\img\\ZFlod5-256G.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\cc-2.webp",
+      "PackagePath": "staticwebassets\\img\\cc-2.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\cc-3.svg",
+      "PackagePath": "staticwebassets\\img\\cc-3.svg"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\cc-4.webp",
+      "PackagePath": "staticwebassets\\img\\cc-4.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\iPhone-15-Pro-Max-720-220-720x220-4.webp",
+      "PackagePath": "staticwebassets\\img\\iPhone-15-Pro-Max-720-220-720x220-4.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\oppo-reno-11f-sliding-hssv.webp",
+      "PackagePath": "staticwebassets\\img\\oppo-reno-11f-sliding-hssv.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\panel.webp",
+      "PackagePath": "staticwebassets\\img\\panel.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\s24-sliding-pha-gia.webp",
+      "PackagePath": "staticwebassets\\img\\s24-sliding-pha-gia.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\tecno-20c-sliding-th3.webp",
+      "PackagePath": "staticwebassets\\img\\tecno-20c-sliding-th3.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\vivo-v29e-sliding-th333.webp",
+      "PackagePath": "staticwebassets\\img\\vivo-v29e-sliding-th333.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\img\\y36-720-220-720x220-4.webp",
+      "PackagePath": "staticwebassets\\img\\y36-720-220-720x220-4.webp"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\js\\myscript.js",
+      "PackagePath": "staticwebassets\\js\\myscript.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\C#4\\6_PS31516_TranThanhPhong_ASM\\Webphone\\Webphone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Webphone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Webphone.props",
+      "PackagePath": "build\\Webphone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Webphone.props",
+      "PackagePath": "buildMultiTargeting\\Webphone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Webphone.props",
+      "PackagePath": "buildTransitive\\Webphone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

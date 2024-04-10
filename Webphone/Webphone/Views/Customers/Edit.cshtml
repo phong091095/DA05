@@ -1,0 +1,57 @@
+﻿@model Webphone._Models.Customer
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_LayoutMn.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Customer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CustId" />
+            <div class="form-group">
+                <label asp-for="CustName" class="control-label"></label>
+                <input asp-for="CustName" class="form-control" />
+                <span asp-validation-for="CustName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustPhone" class="control-label"></label>
+                <input asp-for="CustPhone" class="form-control" />
+                <span asp-validation-for="CustPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustMail" class="control-label"></label>
+                <input asp-for="CustMail" class="form-control" />
+                <span asp-validation-for="CustMail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustAd" class="control-label"></label>
+                <input asp-for="CustAd" class="form-control" />
+                <span asp-validation-for="CustAd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LoginId" class="control-label"></label>
+                <select asp-for="LoginId" class="form-control" asp-items="ViewBag.LoginId"></select>
+                <span asp-validation-for="LoginId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InvoiceId" class="control-label"></label>
+                <select asp-for="InvoiceId" class="form-control" asp-items="ViewBag.InvoiceId"></select>
+                <span asp-validation-for="InvoiceId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

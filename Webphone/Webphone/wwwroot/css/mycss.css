@@ -1,0 +1,93 @@
+
+footer{
+    background-color: rgb(58, 62, 60);
+    padding-bottom: 20px;
+  }
+  footer .col-sm-3{
+    margin-top: 20px;
+  }
+  footer .col-sm-3 h5{
+    color: azure;
+  }
+  footer .col-sm-3 ul{
+    list-style: none;
+  }
+  footer .col-sm-3 li a{
+    text-decoration: none;
+    color: rgba(244, 247, 250, 0.527);
+    margin-top: 5px;
+  }
+  #chungchi img{
+    width: 130px;
+    height: 50px;
+  }
+  hr{
+    color: grey;
+  }
+  .hidden{
+    display: none;
+  }
+
+footer li a:hover{
+ color: azure;
+}
+#tag-phone a{
+float: right;
+margin-right: 10px;
+}
+#tag-phone{
+    margin-bottom: 10px;
+}
+.heart-icon {
+  color: #000; /* Màu mặc định */
+}
+
+.heart-filled {
+  color: red; /* Màu fill khi hover */
+}
+ul.dropdown-menu li a i.fa-chevron-right{
+  float: right;
+}
+.gradient-custom-3 {
+  /* fallback for old browsers */
+  background: #84fab0;
+  
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+  
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+  }
+  .gradient-custom-4 {
+  /* fallback for old browsers */
+  background: #84fab0;
+  
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+  
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+  }
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+.h-custom {
+    height: calc(100% - 73px);
+}
+
+@media (max-width: 450px) {
+    .h-custom {
+        height: 100%;
+    }
+}
+
+@media (min-width: 1025px) {
+    .h-custom {
+        height: 100vh !important;
+    }
+}
